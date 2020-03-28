@@ -6,15 +6,15 @@ Travel through your Laravel app by just clicking on links.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+1) Link to controller + action from the routes files:
 
-For example if there is an image subfolder under your extension project workspace:
+\!\[Link to controller + action\]\(images/link_to_controller_action.gif\)
 
-\!\[feature X\]\(images/feature-x.png\)
+2) Link to controller + action as per route group namespace:
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+\!\[Link to controller as per namespace\]\(images/link_to_controller_as_per_namespace.gif\)
 
-
+`More in progress...`
 
 ## Authors
 
