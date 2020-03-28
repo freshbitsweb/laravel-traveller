@@ -8,11 +8,11 @@ Travel through your Laravel app by just clicking on links.
 
 1) Link to controller + action from the routes files:
 
-\!\[Link to controller + action\]\(images/link_to_controller_action.gif\)
+![Link to controller + action](./images/link_to_controller_action.gif)
 
 2) Link to controller + action as per route group namespace:
 
-\!\[Link to controller as per namespace\]\(images/link_to_controller_as_per_namespace.gif\)
+![Link to controller as per namespace](./images/link_to_controller_as_per_namespace.gif)
 
 `More in progress...`
 
